@@ -1,0 +1,7 @@
+
+  .bg{
+    height: 100vh;
+    background-image: url("./HomeImg/MVMTW.jpg");
+    background-size: cover;
+    background-position: center;
+  }
